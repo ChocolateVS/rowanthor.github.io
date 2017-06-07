@@ -52,6 +52,7 @@ a {
 ul {
 	padding: 1%;
 	background-color: #cc00cc;
+	border: 1% solid purple;
 }
 #WhittakersInfoLink  {
     position: absolute; top: 80%; left: 19%; width:20%;
